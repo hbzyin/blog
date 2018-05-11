@@ -4,4 +4,4 @@ deploy(){
  scp -r blog root@hbzyin.com:/usr/local/nginx/data
 }
 deploy
-echo '------------------deploy done!-------------------------'
+echo '------------------Deploy done!-------------------------'
